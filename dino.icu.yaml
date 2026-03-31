@@ -362,7 +362,12 @@ egg-labs: # just a WIP catalogue of tools for HCTG, U092UGQGHHP
   ttl: 600
   type: CNAME
   value: url-shortener-lq7a.onrender.com.
-  
+
+www.egg-labs: # contact into U092UGQGHHP
+  ttl: 600
+  type: CNAME
+  value: url-shortener-lq7a.onrender.com
+
 elapsed: # U0A9B38F413
 - ttl: 600
   type: A
@@ -1240,11 +1245,6 @@ www: # redirect to bare domain
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
-
-www.egg-labs:
-  ttl: 600
-  type: CNAME
-  value: url-shortener-lq7a.onrender.com
 
 yates:
 - ttl: 600
