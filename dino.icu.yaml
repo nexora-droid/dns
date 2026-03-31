@@ -1241,6 +1241,11 @@ www: # redirect to bare domain
   type: CNAME
   value: cname.vercel-dns.com.
 
+www.egg-labs:
+  ttl: 600
+  type: CNAME
+  value: url-shortener-lq7a.onrender.com
+
 yates:
 - ttl: 600
   type: CNAME
