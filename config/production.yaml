@@ -44,17 +44,17 @@ zones:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   hackclub.io.:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   hackedu.us.:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   hack.af.:
     sources:
       - config
@@ -64,7 +64,7 @@ zones:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   dino.icu.:
     sources:
       - config
@@ -90,7 +90,7 @@ zones:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   wackclub.com.:
     sources:
       - config
@@ -115,7 +115,7 @@ zones:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   aisafety.dance.:
     sources:
       - config
@@ -125,7 +125,7 @@ zones:
     sources:
       - config
     targets:
-      - dnsimple
+      - cloudflare-alt
   hackclub.community.:
     sources:
       - config
