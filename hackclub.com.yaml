@@ -2232,10 +2232,9 @@ firehose:
 fix: # jared@hackclub.com / lynn@hackclub.com
   type: CNAME
   value: 8d1bf7125214998b.vercel-dns-016.com.
-fixit:
-  ttl: 300
+fixit: # echo@hackclub.com U080A3QP42C
   type: CNAME
-  value: a.selfhosted.hackclub.com.
+  value: 15e57670958a85a8.vercel-dns-016.com.
 fizzy: # zach@hackclub.com
 - octodns:
     cloudflare:
@@ -4482,10 +4481,6 @@ prototype: # IRL Hardware event / prototype@hackclub.com
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
-pshs:
-- ttl: 300
-  type: CNAME
-  value: mattlawr.github.io.
 psn:
 - ttl: 300
   type: CNAME
@@ -5702,6 +5697,10 @@ timeless:
   ttl: 300
   type: CNAME
   value: hackclub.github.io.
+tinker: # clay@hackclub.com U05JNJZJ0BS
+  ttl: 300
+  type: CNAME
+  value: a.selfhosted.hackclub.com.
 tist:
 - ttl: 300
   type: A
