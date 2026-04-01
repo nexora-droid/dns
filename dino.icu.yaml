@@ -363,10 +363,10 @@ egg-labs: # just a WIP catalogue of tools for HCTG, U092UGQGHHP
   type: CNAME
   value: url-shortener-lq7a.onrender.com.
 
-www.egg-labs: # contact into U092UGQGHHP
+www.egg-labs: #U092UGQGHHP
   ttl: 600
   type: CNAME
-  value: url-shortener-lq7a.onrender.com
+  value: url-shortener-lq7a.onrender.com.
 
 elapsed: # U0A9B38F413
 - ttl: 600
